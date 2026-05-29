@@ -4,6 +4,11 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 <br />
 
+
+## Education
+
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI. - [MIT](https://github.com/kaorii-ako/Shiori-v1/blob/master/LICENSE)
+
 ## ⚠️ Security Warning
 
 > [!WARNING]
