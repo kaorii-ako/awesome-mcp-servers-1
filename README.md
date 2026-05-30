@@ -4,11 +4,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 <br />
 
-
-## Education
-
-- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI. - [MIT](https://github.com/kaorii-ako/Shiori-v1/blob/master/LICENSE)
-
 ## ⚠️ Security Warning
 
 > [!WARNING]
@@ -268,6 +263,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
+
+- **[Shiori](https://github.com/kaorii-ako/Shiori-v1)** 📱 🏠 - AI study companion MCP server. Access assignments, grades, notes, and flashcard decks from Claude. Google Classroom sync + Gemini AI. [Demo](https://shiori-v1.vercel.app)
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
 - <img src="https://static.wikia.nocookie.net/logopedia/images/2/25/Apple_Books_%28iOS%29_2024_dark.svg/revision/latest?cb=20240616234654" height="14"/> [Apple Books](https://github.com/vgnshiyer/apple-books-mcp) - Transform your Apple Books to a queryable knowledge base.
